@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890358669546",
+    "project_id": "logeogmailv1-b2c67"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890358669546:android:78addd4cd9e97a9b",
+        "android_client_info": {
+          "package_name": "com.prieto.william.logeo_gmail_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890358669546-sir83578662gmakrg589fet8p1qven9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prieto.william.logeo_gmail_v1",
+            "certificate_hash": "A42BB8E9547A4A06E2BC1D4EEB835B668FBD425A"
+          }
+        },
+        {
+          "client_id": "890358669546-55o9ae5q52cgp2msk5nm4v45iving7m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2QnDfe9ySo1ajM9BgAe-wdOiAQFa2M4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
